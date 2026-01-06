@@ -200,8 +200,9 @@ sudo ./client/uninstall.sh --wazuh
 ## 📞 Support
 
 Ghost Tech Security Solutions  
-https://ghosttech.solutions
+https://www.ghosttechconsultation.com
 
 ---
 
 *Built for repeatability, isolation, and control.*
+
